@@ -1,0 +1,924 @@
+[
+ "pays"=> [
+  [
+   "nom"=> "Afghanistan",
+   "indicatif"=> "93"
+  ],
+  [
+   "nom"=> "Afrique du Sud",
+   "indicatif"=> "27"
+  ],
+  [
+   "nom"=> "Îles Åland",
+   "indicatif"=> "358"
+  ],
+  [
+   "nom"=> "Albanie",
+   "indicatif"=> "355"
+  ],
+  [
+   "nom"=> "Algérie",
+   "indicatif"=> "213"
+  ],
+  [
+   "nom"=> "Allemagne",
+   "indicatif"=> "49"
+  ],
+  [
+   "nom"=> "Andorre",
+   "indicatif"=> "376"
+  ],
+  [
+   "nom"=> "Angola",
+   "indicatif"=> "244"
+  ],
+  [
+   "nom"=> "Anguilla",
+   "indicatif"=> "12643"
+  ],
+  [
+   "nom"=> "Antigua-et-Barbuda",
+   "indicatif"=> "12683"
+  ],
+  [
+   "nom"=> "Antarctique",
+   "indicatif"=> "672"
+  ],
+  [
+   "nom"=> "Arabie saoudite",
+   "indicatif"=> "966"
+  ],
+  [
+   "nom"=> "Argentine",
+   "indicatif"=> "54"
+  ],
+  [
+   "nom"=> "Arménie",
+   "indicatif"=> "374"
+  ],
+  [
+   "nom"=> "Aruba",
+   "indicatif"=> "297"
+  ],
+  [
+   "nom"=> "Ascension",
+   "indicatif"=> "247"
+  ],
+  [
+   "nom"=> "Australie",
+   "indicatif"=> "61"
+  ],
+  [
+   "nom"=> "Autriche",
+   "indicatif"=> "43"
+  ],
+  [
+   "nom"=> "Azerbaïdjan",
+   "indicatif"=> "994"
+  ],
+  [
+   "nom"=> "Bahamas",
+   "indicatif"=> "12423"
+  ],
+  [
+   "nom"=> "Bahreïn",
+   "indicatif"=> "973"
+  ],
+  [
+   "nom"=> "Bangladesh",
+   "indicatif"=> "880"
+  ],
+  [
+   "nom"=> "Barbade",
+   "indicatif"=> "12463"
+  ],
+  [
+   "nom"=> "Belgique",
+   "indicatif"=> "32"
+  ],
+  [
+   "nom"=> "Belize",
+   "indicatif"=> "501"
+  ],
+  [
+   "nom"=> "Bénin",
+   "indicatif"=> "229"
+  ],
+  [
+   "nom"=> "Bermudes",
+   "indicatif"=> "14413"
+  ],
+  [
+   "nom"=> "Bhoutan",
+   "indicatif"=> "975"
+  ],
+  [
+   "nom"=> "Biélorussie",
+   "indicatif"=> "375"
+  ],
+  [
+   "nom"=> "Birmanie",
+   "indicatif"=> "95"
+  ],
+  [
+   "nom"=> "Bolivie",
+   "indicatif"=> "591"
+  ],
+  [
+   "nom"=> "Bosnie-Herzégovine",
+   "indicatif"=> "387"
+  ],
+  [
+   "nom"=> "Botswana",
+   "indicatif"=> "267"
+  ],
+  [
+   "nom"=> "Brésil",
+   "indicatif"=> "55"
+  ],
+  [
+   "nom"=> "Brunei",
+   "indicatif"=> "673"
+  ],
+  [
+   "nom"=> "Bulgarie",
+   "indicatif"=> "359"
+  ],
+  [
+   "nom"=> "Burkina Faso",
+   "indicatif"=> "226"
+  ],
+  [
+   "nom"=> "Burundi",
+   "indicatif"=> "257"
+  ],
+  [
+   "nom"=> "Cambodge",
+   "indicatif"=> "855"
+  ],
+  [
+   "nom"=> "Cameroun",
+   "indicatif"=> "237"
+  ],
+  [
+   "nom"=> "Canada",
+   "indicatif"=> "13"
+  ],
+  [
+   "nom"=> "Cap-Vert",
+   "indicatif"=> "238"
+  ],
+  [
+   "nom"=> "Îles Caïmans",
+   "indicatif"=> "13453"
+  ],
+  [
+   "nom"=> "République centrafricaine",
+   "indicatif"=> "236"
+  ],
+  [
+   "nom"=> "Chili",
+   "indicatif"=> "56"
+  ],
+  [
+   "nom"=> "Chine",
+   "indicatif"=> "86"
+  ],
+  [
+   "nom"=> "Chypre",
+   "indicatif"=> "357"
+  ],
+  [
+   "nom"=> "Colombie",
+   "indicatif"=> "57"
+  ],
+  [
+   "nom"=> "Comores",
+   "indicatif"=> "269"
+  ],
+  [
+   "nom"=> "République démocratique du Congo",
+   "indicatif"=> "243"
+  ],
+  [
+   "nom"=> "République du Congo",
+   "indicatif"=> "242"
+  ],
+  [
+   "nom"=> "Îles Cook",
+   "indicatif"=> "682"
+  ],
+  [
+   "nom"=> "Corée du Nord",
+   "indicatif"=> "850"
+  ],
+  [
+   "nom"=> "Corée du Sud",
+   "indicatif"=> "82"
+  ],
+  [
+   "nom"=> "Costa Rica",
+   "indicatif"=> "506"
+  ],
+  [
+   "nom"=> "Croatie",
+   "indicatif"=> "385"
+  ],
+  [
+   "nom"=> "Cuba",
+   "indicatif"=> "53"
+  ],
+  [
+   "nom"=> "Curaçao",
+   "indicatif"=> "599"
+  ],
+  [
+   "nom"=> "Danemark",
+   "indicatif"=> "45"
+  ],
+  [
+   "nom"=> "Djibouti",
+   "indicatif"=> "253"
+  ],
+  [
+   "nom"=> "République dominicaine",
+   "indicatif"=> "1809 et 1829 et 18493"
+  ],
+  [
+   "nom"=> "Dominique",
+   "indicatif"=> "17673"
+  ],
+  [
+   "nom"=> "Égypte",
+   "indicatif"=> "20"
+  ],
+  [
+   "nom"=> "Émirats arabes unis",
+   "indicatif"=> "971"
+  ],
+  [
+   "nom"=> "Équateur",
+   "indicatif"=> "593"
+  ],
+  [
+   "nom"=> "Érythrée",
+   "indicatif"=> "291"
+  ],
+  [
+   "nom"=> "Espagne",
+   "indicatif"=> "34"
+  ],
+  [
+   "nom"=> "Estonie",
+   "indicatif"=> "372"
+  ],
+  [
+   "nom"=> "Éthiopie",
+   "indicatif"=> "251"
+  ],
+  [
+   "nom"=> "Îles Féroé",
+   "indicatif"=> "298"
+  ],
+  [
+   "nom"=> "Fidji",
+   "indicatif"=> "679"
+  ],
+  [
+   "nom"=> "Finlande",
+   "indicatif"=> "358"
+  ],
+  [
+   "nom"=> "France",
+   "indicatif"=> "33"
+  ],
+  [
+   "nom"=> "Gabon",
+   "indicatif"=> "241"
+  ],
+  [
+   "nom"=> "Gambie",
+   "indicatif"=> "220"
+  ],
+  [
+   "nom"=> "Géorgie",
+   "indicatif"=> "995"
+  ],
+  [
+   "nom"=> "Géorgie du Sud-et-les îles Sandwich du Sud",
+   "indicatif"=> "500"
+  ],
+  [
+   "nom"=> "Ghana",
+   "indicatif"=> "233"
+  ],
+  [
+   "nom"=> "Gibraltar",
+   "indicatif"=> "350"
+  ],
+  [
+   "nom"=> "Grèce",
+   "indicatif"=> "30"
+  ],
+  [
+   "nom"=> "Grenade",
+   "indicatif"=> "14733"
+  ],
+  [
+   "nom"=> "Groenland",
+   "indicatif"=> "299"
+  ],
+  [
+   "nom"=> "Guadeloupe",
+   "indicatif"=> "590"
+  ],
+  [
+   "nom"=> "Guam",
+   "indicatif"=> "16713"
+  ],
+  [
+   "nom"=> "Guatemala",
+   "indicatif"=> "502"
+  ],
+  [
+   "nom"=> "Guernesey",
+   "indicatif"=> "44"
+  ],
+  [
+   "nom"=> "Guinée",
+   "indicatif"=> "224"
+  ],
+  [
+   "nom"=> "Guinée équatoriale",
+   "indicatif"=> "240"
+  ],
+  [
+   "nom"=> "Guinée-Bissau",
+   "indicatif"=> "245"
+  ],
+  [
+   "nom"=> "Guyana",
+   "indicatif"=> "592"
+  ],
+  [
+   "nom"=> "Guyane",
+   "indicatif"=> "594"
+  ],
+  [
+   "nom"=> "Haïti",
+   "indicatif"=> "509"
+  ],
+  [
+   "nom"=> "Honduras",
+   "indicatif"=> "504"
+  ],
+  [
+   "nom"=> "Hong Kong",
+   "indicatif"=> "852"
+  ],
+  [
+   "nom"=> "Hongrie",
+   "indicatif"=> "36"
+  ],
+  [
+   "nom"=> "Inde",
+   "indicatif"=> "91"
+  ],
+  [
+   "nom"=> "Indonésie",
+   "indicatif"=> "62"
+  ],
+  [
+   "nom"=> "Irak",
+   "indicatif"=> "964"
+  ],
+  [
+   "nom"=> "Iran",
+   "indicatif"=> "98"
+  ],
+  [
+   "nom"=> "Irlande",
+   "indicatif"=> "353"
+  ],
+  [
+   "nom"=> "Islande",
+   "indicatif"=> "354"
+  ],
+  [
+   "nom"=> "Israël",
+   "indicatif"=> "972"
+  ],
+  [
+   "nom"=> "Italie",
+   "indicatif"=> "39"
+  ],
+  [
+   "nom"=> "Jamaïque",
+   "indicatif"=> "18763"
+  ],
+  [
+   "nom"=> "Japon",
+   "indicatif"=> "81"
+  ],
+  [
+   "nom"=> "Jersey",
+   "indicatif"=> "44"
+  ],
+  [
+   "nom"=> "Jordanie",
+   "indicatif"=> "962"
+  ],
+  [
+   "nom"=> "Kazakhstan",
+   "indicatif"=> "7"
+  ],
+  [
+   "nom"=> "Kenya",
+   "indicatif"=> "254"
+  ],
+  [
+   "nom"=> "Kirghizistan",
+   "indicatif"=> "996"
+  ],
+  [
+   "nom"=> "Kiribati",
+   "indicatif"=> "686"
+  ],
+  [
+   "nom"=> "Kosovo",
+   "indicatif"=> "383"
+  ],
+  [
+   "nom"=> "Koweït",
+   "indicatif"=> "965"
+  ],
+  [
+   "nom"=> "Laos",
+   "indicatif"=> "856"
+  ],
+  [
+   "nom"=> "Lesotho",
+   "indicatif"=> "266"
+  ],
+  [
+   "nom"=> "Lettonie",
+   "indicatif"=> "371"
+  ],
+  [
+   "nom"=> "Liban",
+   "indicatif"=> "961"
+  ],
+  [
+   "nom"=> "Liberia",
+   "indicatif"=> "231"
+  ],
+  [
+   "nom"=> "Libye",
+   "indicatif"=> "218"
+  ],
+  [
+   "nom"=> "Liechtenstein",
+   "indicatif"=> "423"
+  ],
+  [
+   "nom"=> "Lituanie",
+   "indicatif"=> "370"
+  ],
+  [
+   "nom"=> "Luxembourg",
+   "indicatif"=> "352"
+  ],
+  [
+   "nom"=> "Macao",
+   "indicatif"=> "853"
+  ],
+  [
+   "nom"=> "Macédoine du Nord",
+   "indicatif"=> "389"
+  ],
+  [
+   "nom"=> "Madagascar",
+   "indicatif"=> "261"
+  ],
+  [
+   "nom"=> "Malaisie",
+   "indicatif"=> "60"
+  ],
+  [
+   "nom"=> "Malawi",
+   "indicatif"=> "265"
+  ],
+  [
+   "nom"=> "Maldives",
+   "indicatif"=> "960"
+  ],
+  [
+   "nom"=> "Mali",
+   "indicatif"=> "223"
+  ],
+  [
+   "nom"=> "Malouines",
+   "indicatif"=> "500"
+  ],
+  [
+   "nom"=> "Malte",
+   "indicatif"=> "356"
+  ],
+  [
+   "nom"=> "Îles Mariannes du Nord",
+   "indicatif"=> "16703"
+  ],
+  [
+   "nom"=> "Maroc",
+   "indicatif"=> "212"
+  ],
+  [
+   "nom"=> "Îles Marshall",
+   "indicatif"=> "692"
+  ],
+  [
+   "nom"=> "Maurice",
+   "indicatif"=> "230"
+  ],
+  [
+   "nom"=> "Mauritanie",
+   "indicatif"=> "222"
+  ],
+  [
+   "nom"=> "Mayotte",
+   "indicatif"=> "262"
+  ],
+  [
+   "nom"=> "Mexique",
+   "indicatif"=> "52"
+  ],
+  [
+   "nom"=> "États fédérés de Micronésie",
+   "indicatif"=> "691"
+  ],
+  [
+   "nom"=> "Moldavie",
+   "indicatif"=> "373"
+  ],
+  [
+   "nom"=> "Monaco",
+   "indicatif"=> "377"
+  ],
+  [
+   "nom"=> "Mongolie",
+   "indicatif"=> "976"
+  ],
+  [
+   "nom"=> "Monténégro",
+   "indicatif"=> "382"
+  ],
+  [
+   "nom"=> "Montserrat",
+   "indicatif"=> "16643"
+  ],
+  [
+   "nom"=> "Mozambique",
+   "indicatif"=> "258"
+  ],
+  [
+   "nom"=> "Namibie",
+   "indicatif"=> "264"
+  ],
+  [
+   "nom"=> "Nauru",
+   "indicatif"=> "674"
+  ],
+  [
+   "nom"=> "Népal",
+   "indicatif"=> "977"
+  ],
+  [
+   "nom"=> "Nicaragua",
+   "indicatif"=> "505"
+  ],
+  [
+   "nom"=> "Niger",
+   "indicatif"=> "227"
+  ],
+  [
+   "nom"=> "Nigeria",
+   "indicatif"=> "234"
+  ],
+  [
+   "nom"=> "Niue",
+   "indicatif"=> "683"
+  ],
+  [
+   "nom"=> "Norvège",
+   "indicatif"=> "47"
+  ],
+  [
+   "nom"=> "Nouvelle-Zélande",
+   "indicatif"=> "64"
+  ],
+  [
+   "nom"=> "Oman",
+   "indicatif"=> "968"
+  ],
+  [
+   "nom"=> "Ouganda",
+   "indicatif"=> "256"
+  ],
+  [
+   "nom"=> "Ouzbékistan",
+   "indicatif"=> "998"
+  ],
+  [
+   "nom"=> "Pakistan",
+   "indicatif"=> "92"
+  ],
+  [
+   "nom"=> "Palaos",
+   "indicatif"=> "680"
+  ],
+  [
+   "nom"=> "Palestine",
+   "indicatif"=> "970"
+  ],
+  [
+   "nom"=> "Panama",
+   "indicatif"=> "507"
+  ],
+  [
+   "nom"=> "Papouasie-Nouvelle-Guinée",
+   "indicatif"=> "675"
+  ],
+  [
+   "nom"=> "Paraguay",
+   "indicatif"=> "595"
+  ],
+  [
+   "nom"=> "Pays-Bas",
+   "indicatif"=> "31"
+  ],
+  [
+   "nom"=> "Pérou",
+   "indicatif"=> "51"
+  ],
+  [
+   "nom"=> "Philippines",
+   "indicatif"=> "63"
+  ],
+  [
+   "nom"=> "Îles Pitcairn",
+   "indicatif"=> "64"
+  ],
+  [
+   "nom"=> "Pologne",
+   "indicatif"=> "48"
+  ],
+  [
+   "nom"=> "Polynésie française",
+   "indicatif"=> "689"
+  ],
+  [
+   "nom"=> "Porto Rico",
+   "indicatif"=> "1787 et 19393"
+  ],
+  [
+   "nom"=> "Portugal",
+   "indicatif"=> "351"
+  ],
+  [
+   "nom"=> "Qatar",
+   "indicatif"=> "974"
+  ],
+  [
+   "nom"=> "La Réunion",
+   "indicatif"=> "262"
+  ],
+  [
+   "nom"=> "Roumanie",
+   "indicatif"=> "40"
+  ],
+  [
+   "nom"=> "Russie",
+   "indicatif"=> "7"
+  ],
+  [
+   "nom"=> "Rwanda",
+   "indicatif"=> "250"
+  ],
+  [
+   "nom"=> "République arabe sahraouie démocratique",
+   "indicatif"=> "212"
+  ],
+  [
+   "nom"=> "Saint-Barthélemy",
+   "indicatif"=> "590"
+  ],
+  [
+   "nom"=> "Saint-Christophe-et-Niévès",
+   "indicatif"=> "18693"
+  ],
+  [
+   "nom"=> "Sainte-Hélène, Ascension et Tristan da Cunha",
+   "indicatif"=> "290"
+  ],
+  [
+   "nom"=> "Sainte-Lucie",
+   "indicatif"=> "17583"
+  ],
+  [
+   "nom"=> "Saint-Marin",
+   "indicatif"=> "378"
+  ],
+  [
+   "nom"=> "Saint-Martin",
+   "indicatif"=> "590"
+  ],
+  [
+   "nom"=> "Saint-Pierre-et-Miquelon",
+   "indicatif"=> "508"
+  ],
+  [
+   "nom"=> "Salomon",
+   "indicatif"=> "677"
+  ],
+  [
+   "nom"=> "Salvador",
+   "indicatif"=> "503"
+  ],
+  [
+   "nom"=> "Samoa",
+   "indicatif"=> "685"
+  ],
+  [
+   "nom"=> "Samoa américaines",
+   "indicatif"=> "16843"
+  ],
+  [
+   "nom"=> "Sao Tomé-et-Principe",
+   "indicatif"=> "239"
+  ],
+  [
+   "nom"=> "Sénégal",
+   "indicatif"=> "221"
+  ],
+  [
+   "nom"=> "Serbie",
+   "indicatif"=> "381"
+  ],
+  [
+   "nom"=> "Seychelles",
+   "indicatif"=> "248"
+  ],
+  [
+   "nom"=> "Sierra Leone",
+   "indicatif"=> "232"
+  ],
+  [
+   "nom"=> "Singapour",
+   "indicatif"=> "65"
+  ],
+  [
+   "nom"=> "Slovaquie",
+   "indicatif"=> "421"
+  ],
+  [
+   "nom"=> "Slovénie",
+   "indicatif"=> "386"
+  ],
+  [
+   "nom"=> "Somalie",
+   "indicatif"=> "252"
+  ],
+  [
+   "nom"=> "Soudan",
+   "indicatif"=> "249"
+  ],
+  [
+   "nom"=> "Soudan du Sud",
+   "indicatif"=> "211"
+  ],
+  [
+   "nom"=> "Sri Lanka",
+   "indicatif"=> "94"
+  ],
+  [
+   "nom"=> "Suède",
+   "indicatif"=> "46"
+  ],
+  [
+   "nom"=> "Suisse",
+   "indicatif"=> "41"
+  ],
+  [
+   "nom"=> "Suriname",
+   "indicatif"=> "597"
+  ],
+  [
+   "nom"=> "Eswatini",
+   "indicatif"=> "268"
+  ],
+  [
+   "nom"=> "Syrie",
+   "indicatif"=> "963"
+  ],
+  [
+   "nom"=> "Tadjikistan",
+   "indicatif"=> "992"
+  ],
+  [
+   "nom"=> "Tanzanie",
+   "indicatif"=> "255"
+  ],
+  [
+   "nom"=> "Tchad",
+   "indicatif"=> "235"
+  ],
+  [
+   "nom"=> "République tchèque",
+   "indicatif"=> "420"
+  ],
+  [
+   "nom"=> "Territoire britannique de l'océan Indien",
+   "indicatif"=> "246"
+  ],
+  [
+   "nom"=> "Île Christmas",
+   "indicatif"=> "672"
+  ],
+  [
+   "nom"=> "Thaïlande",
+   "indicatif"=> "66"
+  ],
+  [
+   "nom"=> "Timor oriental",
+   "indicatif"=> "670"
+  ],
+  [
+   "nom"=> "Togo",
+   "indicatif"=> "228"
+  ],
+  [
+   "nom"=> "Tonga",
+   "indicatif"=> "676"
+  ],
+  [
+   "nom"=> "Trinité-et-Tobago",
+   "indicatif"=> "18683"
+  ],
+  [
+   "nom"=> "Tunisie",
+   "indicatif"=> "216"
+  ],
+  [
+   "nom"=> "Turkménistan",
+   "indicatif"=> "993"
+  ],
+  [
+   "nom"=> "Îles Turques-et-Caïques",
+   "indicatif"=> "16493"
+  ],
+  [
+   "nom"=> "Turquie",
+   "indicatif"=> "90"
+  ],
+  [
+   "nom"=> "Tuvalu",
+   "indicatif"=> "688"
+  ],
+  [
+   "nom"=> "Ukraine",
+   "indicatif"=> "380"
+  ],
+  [
+   "nom"=> "Uruguay",
+   "indicatif"=> "598"
+  ],
+  [
+   "nom"=> "Vanuatu",
+   "indicatif"=> "678"
+  ],
+  [
+   "nom"=> "Venezuela",
+   "indicatif"=> "58"
+  ],
+  [
+   "nom"=> "Îles Vierges britanniques",
+   "indicatif"=> "12843"
+  ],
+  [
+   "nom"=> "Viêt Nam",
+   "indicatif"=> "84"
+  ],
+  [
+   "nom"=> "Yémen",
+   "indicatif"=> "967"
+  ],
+  [
+   "nom"=> "Zambie",
+   "indicatif"=> "260"
+  ],
+  [
+   "nom"=> "Zimbabwe",
+   "indicatif"=> "263"
+  ]
+ ]
+]
